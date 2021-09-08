@@ -5,7 +5,7 @@ int main()
 {
     int Num1=0, Num2=0;
 
-    int NumerosEnPantalla ()
+    void NumerosEnPantalla ()
     {
         printf("Ingrese dos numeros\n");
         scanf("%d", &Num1);
