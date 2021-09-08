@@ -5,7 +5,7 @@ int main ()
 {
     int Lado1=0, Lado2=0, P=0, A=0;
 
-    int PerimetroArea()
+    void PerimetroArea()
     {
         printf ("Ingrese los dos lados del rectangulo\n");
         scanf ("%d", &Lado1);
